@@ -71,7 +71,7 @@ RozgaarDwaar is a comprehensive career guidance platform designed to help job se
 - Modal-based UI components
 - Client-side form validation
 
-### Backend (Planned for Vercel Deployment)
+### Backend 
 - Static site deployment
 - Serverless functions (future implementation)
 - Mock data system for prototyping
