@@ -4,7 +4,7 @@
 RozgaarDwaar is a comprehensive career guidance platform designed to help job seekers with skill assessment, interview preparation, and career planning. The web application provides personalized recommendations based on user skills and career goals.
 
 ## Demo
-🔗 Live Demo: [https://rozgaar-dwaar-platform.vercel.app/]
+🔗 Live Demo: [https://rozgaar-dwaar-career-guidance-platf.vercel.app/]
 ## Verified Features
 ## Preview
 <img width="1897" height="868" alt="image" src="https://github.com/user-attachments/assets/473718f9-2c52-4892-adf7-276e3efe921c" />
